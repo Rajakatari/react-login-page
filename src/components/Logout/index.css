@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.button {
+  height: 44px;
+  width: 100px;
+  border: none;
+  border-radius: 10px;
+  background-color: white;
+  box-shadow: 3px 5px 5px black;
+  cursor: pointer;
+}
